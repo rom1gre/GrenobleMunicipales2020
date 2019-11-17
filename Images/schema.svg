@@ -15,7 +15,36 @@
    inkscape:version="1.0beta1 (32d4812, 2019-09-19)"
    sodipodi:docname="schema.svg">
   <defs
-     id="defs2" />
+     id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="Arrow2Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path1338" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart">
+      <path
+         transform="scale(1.1) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path1335" />
+    </marker>
+  </defs>
   <sodipodi:namedview
      inkscape:snap-path-clip="true"
      id="base"
@@ -566,7 +595,7 @@
        height="9.9136105"
        width="84.589203"
        id="rect14-3-9-0-0-45-9-9"
-       style="fill:#ff5555;fill-rule:evenodd;stroke-width:0.0595601" />
+       style="fill:#ff5555;fill-rule:evenodd;stroke-width:0.0595601;fill-opacity:1" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -594,5 +623,40 @@
          x="180.80768"
          y="154.50677"
          style="font-size:3.52777px;fill:#0000ff;stroke-width:0.264583">(soutien)</tspan></text>
+    <rect
+       style="fill:#ff5555;fill-rule:evenodd;stroke-width:0.0595601"
+       id="rect14-3-9-0-0-45-9-9-2"
+       width="84.589203"
+       height="9.9136105"
+       x="13.080795"
+       y="141.86584"
+       ry="0.37978163" />
+    <text
+       id="text125-1-9-3-8-3-0-8"
+       y="148.78506"
+       x="17.65889"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="fill:#0000ff;stroke-width:0.264583"
+         y="148.78506"
+         x="17.65889"
+         id="tspan123-7-5-9-6-4-7-2"
+         sodipodi:role="line">Parti Socialiste</tspan></text>
+    <text
+       id="text150-3-2-1-1-4"
+       y="145.51796"
+       x="80.256561"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#0000ff;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         id="tspan152-8-3-5-6-8"
+         style="font-size:3.52777px;fill:#0000ff;stroke-width:0.264583"
+         y="145.51796"
+         x="80.256561"
+         sodipodi:role="line">Grenoble</tspan><tspan
+         style="font-size:3.52777px;fill:#0000ff;stroke-width:0.264583"
+         y="150.80962"
+         x="80.256561"
+         sodipodi:role="line"
+         id="tspan1267-3">(soutien)</tspan></text>
   </g>
 </svg>

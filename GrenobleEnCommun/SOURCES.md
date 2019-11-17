@@ -20,3 +20,5 @@
   - https://twitter.com/Grenoble_Commun/status/1193884628576325633
   - https://twitter.com/placegrenet/status/1193120935622127616
 
+14/11/2019: Parti Socialiste Grenoblois
+  - https://twitter.com/EricPiolle/status/1194917621650665474
