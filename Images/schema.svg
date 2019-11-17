@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.01"
-     inkscape:cx="533.10818"
-     inkscape:cy="429.43618"
+     inkscape:cx="510.3359"
+     inkscape:cy="451.21836"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -470,5 +470,37 @@
          y="124.00003"
          style="font-size:3.52777px;fill:#ffffff;stroke-width:0.264583"
          id="tspan152-8-33">(rejoint)</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.0595601"
+       id="rect14-3-9-0-0-4-3"
+       width="84.589203"
+       height="9.9136105"
+       x="13.080797"
+       y="128.77728"
+       ry="0.37978163" />
+    <text
+       id="text125-1-9-3-9-5"
+       y="134.10899"
+       x="13.94846"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="fill:#ff0000;stroke-width:0.264583"
+         y="134.10899"
+         x="13.94846"
+         id="tspan123-7-5-9-1-0"
+         sodipodi:role="line">Ensemble! <tspan
+   id="tspan1154"
+   style="fill:#008000">Grenoble Métropole</tspan></tspan></text>
+    <text
+       id="text150-3-7-2"
+       y="137.82733"
+       x="80.134705"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000080;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         id="tspan152-8-5-2"
+         style="font-size:3.52777px;fill:#000080;stroke-width:0.264583"
+         y="137.82733"
+         x="80.134705"
+         sodipodi:role="line">(rejoint)</tspan></text>
   </g>
 </svg>
