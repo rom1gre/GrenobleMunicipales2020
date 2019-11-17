@@ -33,9 +33,9 @@
      showgrid="false"
      showguides="true"
      showborder="false"
-     inkscape:window-width="2397"
+     inkscape:window-width="1961"
      inkscape:window-height="1209"
-     inkscape:window-x="0"
+     inkscape:window-x="18"
      inkscape:window-y="23"
      inkscape:window-maximized="0" />
   <metadata
@@ -435,5 +435,40 @@
          x="223.9249"
          id="tspan20-0-7-6"
          sodipodi:role="line">M. D'Ornano - liste Les Patriotes</tspan></text>
+    <rect
+       ry="0.37978163"
+       y="115.15952"
+       x="13.080799"
+       height="9.9136105"
+       width="84.589203"
+       id="rect14-3-9-0-0-7"
+       style="fill:#008080;fill-rule:evenodd;stroke-width:0.0595601" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="17.652626"
+       y="122.07874"
+       id="text125-1-9-3-7"><tspan
+         sodipodi:role="line"
+         id="tspan123-7-5-9-9"
+         x="17.652626"
+         y="122.07874"
+         style="fill:#ffffff;stroke-width:0.264583">Génération.S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#ffffff;stroke-width:0.264583"
+       x="60.639347"
+       y="118.70837"
+       id="text150-3-5"><tspan
+         sodipodi:role="line"
+         id="tspan148-7-3"
+         x="60.639347"
+         y="118.70837"
+         style="font-size:3.52777px;fill:#ffffff;stroke-width:0.264583">Grenoble Métropole</tspan><tspan
+         sodipodi:role="line"
+         x="60.639347"
+         y="124.00003"
+         style="font-size:3.52777px;fill:#ffffff;stroke-width:0.264583"
+         id="tspan152-8-33">(rejoint)</tspan></text>
   </g>
 </svg>
