@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.01"
-     inkscape:cx="401.9802"
+     inkscape:cx="409.90099"
      inkscape:cy="432.40648"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -308,5 +308,40 @@
          y="97.941719"
          x="66.365883"
          sodipodi:role="line">(rejoint)</tspan></text>
+    <rect
+       ry="0.37978163"
+       y="102.07092"
+       x="13.080797"
+       height="9.9136105"
+       width="84.589203"
+       id="rect14-3-9-0-0-4"
+       style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.0595601" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="17.652628"
+       y="108.99014"
+       id="text125-1-9-3-9"><tspan
+         sodipodi:role="line"
+         id="tspan123-7-5-9-1"
+         x="17.652628"
+         y="108.99014"
+         style="fill:#008000;stroke-width:0.264583">Génération Ecologie</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000080;stroke-width:0.264583"
+       x="77.515068"
+       y="105.61977"
+       id="text150-3-7"><tspan
+         sodipodi:role="line"
+         id="tspan148-7-5"
+         x="77.515068"
+         y="105.61977"
+         style="font-size:3.52777px;fill:#000080;stroke-width:0.264583">Isère</tspan><tspan
+         sodipodi:role="line"
+         x="77.515068"
+         y="110.91143"
+         style="font-size:3.52777px;fill:#000080;stroke-width:0.264583"
+         id="tspan152-8-5">(soutien)</tspan></text>
   </g>
 </svg>

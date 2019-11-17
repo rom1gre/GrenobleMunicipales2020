@@ -4,6 +4,9 @@
 03/10/2019: Nouvelle Donne
   - https://twitter.com/NDIsere/status/1179726987025367045
 
+21/10/2019: Génération Ecologie
+  - https://twitter.com/Grenoble_Commun/status/1186184221901185024
+
 29/10/2019: La France Insoumise
   - https://twitter.com/Grenoble_Commun/status/1189250146007179265
 
