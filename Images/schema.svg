@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.01"
-     inkscape:cx="494.49431"
+     inkscape:cx="420.23689"
      inkscape:cy="449.23816"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -540,5 +540,59 @@
          x="16.702496"
          id="tspan20-0-7-6-5-5"
          sodipodi:role="line">Gauche Alternative &amp; Gilets Jaunes?</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.0821645"
+       id="rect14-2-2-5-6"
+       width="95.591675"
+       height="16.695004"
+       x="210.44688"
+       y="164.577"
+       ry="4.0451016" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="230.56795"
+       y="170.36943"
+       id="text22-2-8-0-0"><tspan
+         sodipodi:role="line"
+         id="tspan20-0-7-6-3"
+         x="230.56795"
+         y="170.36943"
+         style="fill:#000080;stroke-width:0.264583">Rassemblement National?</tspan></text>
+    <rect
+       ry="0.37978163"
+       y="145.563"
+       x="113.63191"
+       height="9.9136105"
+       width="84.589203"
+       id="rect14-3-9-0-0-45-9-9"
+       style="fill:#ff5555;fill-rule:evenodd;stroke-width:0.0595601" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="118.21001"
+       y="152.48222"
+       id="text125-1-9-3-8-3-0"><tspan
+         sodipodi:role="line"
+         id="tspan123-7-5-9-6-4-7"
+         x="118.21001"
+         y="152.48222"
+         style="fill:#0000ff;stroke-width:0.264583">Parti Socialiste</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#0000ff;stroke-width:0.264583"
+       x="180.80768"
+       y="149.21512"
+       id="text150-3-2-1-1"><tspan
+         sodipodi:role="line"
+         x="180.80768"
+         y="149.21512"
+         style="font-size:3.52777px;fill:#0000ff;stroke-width:0.264583"
+         id="tspan152-8-3-5-6">Isère</tspan><tspan
+         id="tspan1267"
+         sodipodi:role="line"
+         x="180.80768"
+         y="154.50677"
+         style="font-size:3.52777px;fill:#0000ff;stroke-width:0.264583">(soutien)</tspan></text>
   </g>
 </svg>
