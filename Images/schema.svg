@@ -25,7 +25,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.01"
-     inkscape:cx="409.90099"
+     inkscape:cx="408.91089"
      inkscape:cy="432.40648"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -67,7 +67,7 @@
          y="21.039316"
          style="stroke-width:0.264583">Grenoble Elections Municipales 2020</tspan></text>
     <rect
-       style="fill:#ff7f2a;fill-rule:evenodd;stroke-width:0.256451"
+       style="fill:#ff9955;fill-rule:evenodd;stroke-width:0.256451"
        id="rect14"
        width="95.591675"
        height="162.63844"
@@ -343,5 +343,40 @@
          y="110.91143"
          style="font-size:3.52777px;fill:#000080;stroke-width:0.264583"
          id="tspan152-8-5">(soutien)</tspan></text>
+    <rect
+       ry="0.37978163"
+       y="54.40926"
+       x="113.63818"
+       height="9.9136105"
+       width="84.589203"
+       id="rect14-3-9-0-0-45"
+       style="fill:#ff6600;fill-rule:evenodd;stroke-width:0.0595601" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="118.21001"
+       y="61.32848"
+       id="text125-1-9-3-8"><tspan
+         sodipodi:role="line"
+         id="tspan123-7-5-9-6"
+         x="118.21001"
+         y="61.32848"
+         style="fill:#ffffff;stroke-width:0.264583">Modem</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#ffffff;stroke-width:0.264583"
+       x="166.95993"
+       y="57.958096"
+       id="text150-3-2"><tspan
+         sodipodi:role="line"
+         id="tspan148-7-51"
+         x="166.95993"
+         y="57.958096"
+         style="font-size:3.52777px;fill:#ffffff;stroke-width:0.264583">Isère</tspan><tspan
+         sodipodi:role="line"
+         x="166.95993"
+         y="63.24976"
+         style="font-size:3.52777px;fill:#ffffff;stroke-width:0.264583"
+         id="tspan152-8-3">(rejoint)</tspan></text>
   </g>
 </svg>
