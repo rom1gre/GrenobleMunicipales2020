@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="298.61353mm"
-   height="189.16191mm"
-   viewBox="0 0 298.61353 189.16191"
+   width="309.64108mm"
+   height="189.39975mm"
+   viewBox="0 0 309.64109 189.39975"
    version="1.1"
    id="svg8"
    inkscape:version="1.0beta1 (32d4812, 2019-09-19)"
@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.01"
-     inkscape:cx="417.82178"
-     inkscape:cy="410.6243"
+     inkscape:cx="533.10818"
+     inkscape:cy="429.43618"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -51,10 +51,18 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-7.3993688,-12.998489)"
+     transform="translate(-3.9938407,-8.0211782)"
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       ry="2.9691076"
+       y="8.0211782"
+       x="3.9938407"
+       height="189.39975"
+       width="309.64108"
+       id="rect1052"
+       style="fill:#b3b3b3;stroke-width:0.262236" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -108,16 +116,16 @@
        id="text18-9"
        y="44.136829"
        x="155.37755"
-       style="font-style:normal;font-weight:normal;font-size:5.29166999999999987px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.264583;"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583;"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
          y="44.136829"
          x="155.37755"
          id="tspan16-8"
          sodipodi:role="line">U<tspan
-   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#000080;"
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#000080"
    id="tspan53">n nouveau regard sur</tspan></tspan><tspan
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583;"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583"
          y="50.751415"
          x="155.37755"
          sodipodi:role="line"
@@ -126,9 +134,9 @@
        id="text22-2"
        y="36.13274"
        x="131.71416"
-       style="font-style:normal;font-weight:normal;font-size:4.23332999999999959px;line-height:1.25;font-family:sans-serif;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.264583;"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
-         style="fill:#000080;stroke-width:0.264583;"
+         style="fill:#000080;stroke-width:0.264583"
          y="36.13274"
          x="131.71416"
          id="tspan20-0"
@@ -375,7 +383,7 @@
          style="font-size:3.52777px;fill:#ffffff;stroke-width:0.264583">Isère</tspan><tspan
          sodipodi:role="line"
          x="166.95993"
-         y="63.24976"
+         y="63.249756"
          style="font-size:3.52777px;fill:#ffffff;stroke-width:0.264583"
          id="tspan152-8-3">(rejoint)</tspan></text>
     <rect
@@ -408,5 +416,24 @@
          y="138.48422"
          x="181.06964"
          sodipodi:role="line">(rejoint)</tspan></text>
+    <rect
+       ry="4.0451016"
+       y="114.54475"
+       x="211.35065"
+       height="16.695004"
+       width="95.591675"
+       id="rect14-2-2-5"
+       style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.0821646" />
+    <text
+       id="text22-2-8-0"
+       y="120.33728"
+       x="223.9249"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="fill:#000080;stroke-width:0.264583"
+         y="120.33728"
+         x="223.9249"
+         id="tspan20-0-7-6"
+         sodipodi:role="line">M. D'Ornano - liste Les Patriotes</tspan></text>
   </g>
 </svg>
