@@ -57,9 +57,9 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="499.60396"
-     inkscape:cx="400"
-     inkscape:zoom="1.01"
+     inkscape:cy="333.42429"
+     inkscape:cx="495.0495"
+     inkscape:zoom="0.82"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -677,5 +677,40 @@
          x="115.86185"
          id="tspan123-7-5-9-6-4-9"
          sodipodi:role="line">Mouvement Républicain et Citoyen</tspan></text>
+    <rect
+       ry="0.37978163"
+       y="172.26929"
+       x="113.6319"
+       height="9.9136105"
+       width="84.589203"
+       id="rect14-3-9-0-0-7-6"
+       style="fill:#008080;fill-rule:evenodd;stroke-width:0.0595601" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="118.20373"
+       y="179.18851"
+       id="text125-1-9-3-7-5"><tspan
+         sodipodi:role="line"
+         id="tspan123-7-5-9-9-9"
+         x="118.20373"
+         y="179.18851"
+         style="fill:#ffffff;stroke-width:0.264583">Génération.S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#ffffff;stroke-width:0.264583"
+       x="171.83832"
+       y="175.49547"
+       id="text150-3-5-5"><tspan
+         sodipodi:role="line"
+         id="tspan148-7-3-4"
+         x="171.83832"
+         y="175.49547"
+         style="font-size:3.52777px;fill:#ffffff;stroke-width:0.264583">Non officiel</tspan><tspan
+         sodipodi:role="line"
+         x="171.83832"
+         y="180.78712"
+         style="font-size:3.52777px;fill:#ffffff;stroke-width:0.264583"
+         id="tspan152-8-33-9">(rejoint)</tspan></text>
   </g>
 </svg>
