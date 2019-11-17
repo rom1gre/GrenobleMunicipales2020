@@ -10,13 +10,13 @@ Historique [ici](https://github.com/rom1gre/GrenobleMunicipales2020/tree/master/
 
 ### Grenoble en Commun
 
-[ici](https://github.com/rom1gre/GrenobleMunicipales2020/blob/master/GrenobleEnCommun/README.md)
+Sources [ici](https://github.com/rom1gre/GrenobleMunicipales2020/blob/master/GrenobleEnCommun/SOURCES.md).
 
 ### Un Nouveau Regard sur Grenoble
 
-[ici](https://github.com/rom1gre/GrenobleMunicipales2020/blob/master/UnNouveauRegardSurGrenoble/README.md)
+Sources [ici](https://github.com/rom1gre/GrenobleMunicipales2020/blob/master/UnNouveauRegardSurGrenoble/SOURCES.md).
 
 ### Grenoble Nouvel Air
 
-[ici](https://github.com/rom1gre/GrenobleMunicipales2020/blob/master/UnNouvelAir/README.md)
+Sources [ici](https://github.com/rom1gre/GrenobleMunicipales2020/blob/master/UnNouvelAir/SOURCES.md).
 
