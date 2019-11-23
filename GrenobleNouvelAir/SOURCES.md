@@ -13,3 +13,6 @@
 09/11/2019: Go Citoyennté
   - https://twitter.com/GoCitoyennete/status/1193087163199639552
 
+21/11/2019: Partie Socialiste National
+  - https://twitter.com/EveMoulinier/status/1197436393473138688
+
