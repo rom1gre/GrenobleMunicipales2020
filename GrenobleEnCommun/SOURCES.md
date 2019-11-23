@@ -22,3 +22,6 @@
 
 14/11/2019: Parti Socialiste Grenoblois
   - https://twitter.com/EricPiolle/status/1194917621650665474
+
+22/12/2019: PCF
+  - https://twitter.com/pcfgrenoble/status/1197877159844552712
