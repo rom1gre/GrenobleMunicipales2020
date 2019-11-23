@@ -21,3 +21,7 @@
   - [v0.92](https://twitter.com/prenezlestc/status/1194895234343297024)
   - [v0.93](https://twitter.com/prenezlestc/status/1195275567622475776)
   - [v0.94](https://twitter.com/prenezlestc/status/1195796336228143104)
+  - [v0.95](https://twitter.com/pabouger/status/1197446886178861056)
+  - [v0.96](https://twitter.com/pabouger/status/1197823416428052480)
+  - [v0.97](https://twitter.com/pabouger/status/1197931398423830531)
+  - [v0.98 beta](https://twitter.com/pabouger/status/1197935641805361153)
