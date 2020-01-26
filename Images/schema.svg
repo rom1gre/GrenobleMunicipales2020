@@ -54,8 +54,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.01"
-     inkscape:cx="646.53465"
-     inkscape:cy="706.6761"
+     inkscape:cx="683.84243"
+     inkscape:cy="379.01652"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -85,13 +85,13 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       ry="3.2483597"
+       ry="3.0500174"
        y="8.0211782"
        x="3.9938407"
-       height="207.21329"
+       height="194.56099"
        width="309.64108"
        id="rect1052"
-       style="fill:#b3b3b3;stroke-width:0.274291" />
+       style="fill:#b3b3b3;stroke-width:0.265785" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -212,7 +212,7 @@
        height="74.588982"
        x="108.13068"
        y="114.47323"
-       ry="2.8574378" />
+       ry="5.10921" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -448,7 +448,7 @@
     <rect
        ry="4.0451016"
        y="144.17787"
-       x="210.44687"
+       x="210.72835"
        height="16.695004"
        width="95.591675"
        id="rect14-2-2-5"
@@ -456,14 +456,14 @@
     <text
        id="text22-2-8-0"
        y="149.97031"
-       x="223.60403"
+       x="228.99527"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="fill:#000080;stroke-width:0.264583"
          y="149.97031"
-         x="223.60403"
+         x="228.99527"
          id="tspan20-0-7-6"
-         sodipodi:role="line">M. D'Ornano - liste Les Patriotes</tspan></text>
+         sodipodi:role="line">M. D'Ornano - Les Patriotes</tspan></text>
     <rect
        ry="0.37978163"
        y="115.15952"
@@ -555,20 +555,9 @@
        id="rect14-2-2-5-6"
        width="95.591675"
        height="16.695004"
-       x="210.44688"
-       y="164.577"
+       x="210.72835"
+       y="178.41409"
        ry="4.0451016" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="230.56795"
-       y="170.36943"
-       id="text22-2-8-0-0"><tspan
-         sodipodi:role="line"
-         id="tspan20-0-7-6-3"
-         x="230.56795"
-         y="170.36943"
-         style="fill:#000080;stroke-width:0.264583">Rassemblement National?</tspan></text>
     <rect
        ry="0.37978163"
        y="145.563"
@@ -789,13 +778,13 @@
          style="font-size:3.52777px;fill:#000080;stroke-width:0.264583"
          id="tspan152-8-5-2-1">(soutient)</tspan></text>
     <rect
-       ry="1.184233"
+       ry="4.9948344"
        y="175.28458"
        x="7.5428867"
-       height="30.912565"
+       height="20.172054"
        width="95.591675"
        id="rect14-38"
-       style="fill:#aa4400;fill-rule:evenodd;stroke-width:0.111805" />
+       style="fill:#aa4400;fill-rule:evenodd;stroke-width:0.0903168" />
     <text
        id="text18-4"
        y="190.37799"
@@ -818,5 +807,16 @@
          x="24.783508"
          id="tspan20-9"
          sodipodi:role="line">G. Tuscher (?) - mouvement</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="214.27783"
+       y="184.39119"
+       id="text22-2-8-0-7"><tspan
+         sodipodi:role="line"
+         id="tspan20-0-7-6-6"
+         x="214.27783"
+         y="184.39119"
+         style="fill:#000080;stroke-width:0.264583">D. Berthelemy - Rassemblement National</tspan></text>
   </g>
 </svg>
