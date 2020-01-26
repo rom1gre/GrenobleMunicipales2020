@@ -16,3 +16,6 @@
 21/11/2019: Partie Socialiste National
   - https://twitter.com/EveMoulinier/status/1197436393473138688
 
+25/01/2020: Cap21/LRC Grenoble
+  - https://twitter.com/RedsGrenoble/status/1221180019248189442
+
