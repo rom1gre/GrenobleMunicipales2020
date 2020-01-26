@@ -54,8 +54,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.01"
-     inkscape:cx="610.89109"
-     inkscape:cy="387.86421"
+     inkscape:cx="646.53465"
+     inkscape:cy="706.6761"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -85,13 +85,13 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       ry="2.9444678"
+       ry="3.2483597"
        y="8.0211782"
        x="3.9938407"
-       height="187.82797"
+       height="207.21329"
        width="309.64108"
        id="rect1052"
-       style="fill:#b3b3b3;stroke-width:0.261146" />
+       style="fill:#b3b3b3;stroke-width:0.274291" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -788,5 +788,35 @@
          y="77.077087"
          style="font-size:3.52777px;fill:#000080;stroke-width:0.264583"
          id="tspan152-8-5-2-1">(soutient)</tspan></text>
+    <rect
+       ry="1.184233"
+       y="175.28458"
+       x="7.5428867"
+       height="30.912565"
+       width="95.591675"
+       id="rect14-38"
+       style="fill:#aa4400;fill-rule:evenodd;stroke-width:0.111805" />
+    <text
+       id="text18-4"
+       y="190.37799"
+       x="19.533394"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';stroke-width:0.264583"
+         y="190.37799"
+         x="19.533394"
+         id="tspan16-0"
+         sodipodi:role="line">La Commune est à Nous</tspan></text>
+    <text
+       id="text22-0"
+       y="182.3739"
+       x="24.783508"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="182.3739"
+         x="24.783508"
+         id="tspan20-9"
+         sodipodi:role="line">G. Tuscher (?) - mouvement</tspan></text>
   </g>
 </svg>
