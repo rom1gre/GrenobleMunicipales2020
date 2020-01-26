@@ -835,7 +835,7 @@
          x="73.513206"
          sodipodi:role="line">participation)</tspan></text>
     <rect
-       style="fill:#843a84;fill-rule:evenodd;stroke-width:0.0903168;fill-opacity:1"
+       style="fill:#800080;fill-rule:evenodd;stroke-width:0.0903168;fill-opacity:1"
        id="rect14-38-0"
        width="95.591675"
        height="20.172054"
@@ -844,7 +844,7 @@
        ry="4.9948344" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="125.85473"
        y="190.37799"
        id="text18-4-0"><tspan
@@ -852,10 +852,10 @@
          id="tspan16-0-9"
          x="125.85473"
          y="190.37799"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';stroke-width:0.264583">Grenoble c'est Vous</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#f2f2f2;stroke-width:0.264583">Grenoble c'est Vous</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="115.78149"
        y="182.3739"
        id="text22-0-7"><tspan
@@ -863,7 +863,7 @@
          id="tspan20-9-1"
          x="115.78149"
          y="182.3739"
-         style="stroke-width:0.264583">F. Cominotti -  investir dans l'humain</tspan></text>
+         style="fill:#f2f2f2;stroke-width:0.264583">F. Cominotti -  investir dans l'humain</tspan></text>
     <rect
        style="fill:#ffff00;fill-rule:evenodd;stroke-width:0.0690456"
        id="rect14-38-4"
@@ -875,13 +875,32 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="124.32971"
+       x="126.88046"
        y="207.78436"
        id="text22-0-8"><tspan
          sodipodi:role="line"
          id="tspan20-9-14"
-         x="124.32971"
+         x="126.88046"
          y="207.78436"
          style="stroke-width:0.264583">L. Poget - liste Popolitique</tspan></text>
+    <rect
+       ry="4.2289619"
+       y="200.69504"
+       x="7.7932496"
+       height="11.789216"
+       width="95.591675"
+       id="rect14-38-4-6"
+       style="fill:#ff0000;fill-rule:evenodd;stroke-width:0.0690457;fill-opacity:1" />
+    <text
+       id="text22-0-8-7"
+       y="207.78436"
+       x="28.982981"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="fill:#ffffff;stroke-width:0.264583"
+         y="207.78436"
+         x="28.982981"
+         id="tspan20-9-14-8"
+         sodipodi:role="line">C. Brun -  Lutte Ouvrière</tspan></text>
   </g>
 </svg>
