@@ -54,8 +54,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.01"
-     inkscape:cx="685.82262"
-     inkscape:cy="398.8185"
+     inkscape:cx="679.88203"
+     inkscape:cy="534.46207"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -85,13 +85,13 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       ry="3.0500174"
+       ry="3.2964165"
        y="8.0211782"
        x="3.9938407"
-       height="194.56099"
+       height="210.27881"
        width="309.64108"
        id="rect1052"
-       style="fill:#b3b3b3;stroke-width:0.265785" />
+       style="fill:#b3b3b3;stroke-width:0.276312" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -864,5 +864,24 @@
          x="115.78149"
          y="182.3739"
          style="stroke-width:0.264583">F. Cominotti -  investir dans l'humain</tspan></text>
+    <rect
+       style="fill:#ffff00;fill-rule:evenodd;stroke-width:0.0690456"
+       id="rect14-38-4"
+       width="95.591675"
+       height="11.789216"
+       x="107.08909"
+       y="200.69504"
+       ry="4.2289619" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="124.32971"
+       y="207.78436"
+       id="text22-0-8"><tspan
+         sodipodi:role="line"
+         id="tspan20-9-14"
+         x="124.32971"
+         y="207.78436"
+         style="stroke-width:0.264583">L. Poget - liste Popolitique</tspan></text>
   </g>
 </svg>
