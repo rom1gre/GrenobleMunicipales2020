@@ -54,8 +54,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.01"
-     inkscape:cx="683.84243"
-     inkscape:cy="379.01652"
+     inkscape:cx="707.6048"
+     inkscape:cy="398.8185"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -255,7 +255,7 @@
          id="tspan123"
          x="17.615953"
          y="55.696259"
-         style="fill:#ffffff;stroke-width:0.264583">EELV?</tspan></text>
+         style="fill:#ffffff;stroke-width:0.264583">EELV Grenoble</tspan></text>
     <rect
        style="fill:#ffff00;fill-rule:evenodd;stroke-width:0.0595601"
        id="rect14-3-9"
@@ -818,5 +818,21 @@
          x="214.27783"
          y="184.39119"
          style="fill:#000080;stroke-width:0.264583">D. Berthelemy - Rassemblement National</tspan></text>
+    <text
+       id="text150-3-7-1"
+       y="52.30764"
+       x="73.513206"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#ffffff;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         id="tspan152-8-5-8"
+         style="font-size:3.52777px;fill:#ffffff;stroke-width:0.264583"
+         y="52.30764"
+         x="73.513206"
+         sodipodi:role="line">(soutien et</tspan><tspan
+         id="tspan271"
+         style="font-size:3.52777px;fill:#ffffff;stroke-width:0.264583"
+         y="57.599304"
+         x="73.513206"
+         sodipodi:role="line">participation)</tspan></text>
   </g>
 </svg>
