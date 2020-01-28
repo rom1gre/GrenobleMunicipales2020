@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="309.64108mm"
-   height="208.44507mm"
-   viewBox="0 0 309.64109 208.44507"
+   width="466.5278mm"
+   height="175.65163mm"
+   viewBox="0 0 466.52781 175.65163"
    version="1.1"
    id="svg8"
    inkscape:version="1.0beta1 (32d4812, 2019-09-19)"
@@ -56,8 +56,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.71"
-     inkscape:cx="370.39651"
-     inkscape:cy="365.6338"
+     inkscape:cx="850.6782"
+     inkscape:cy="333.23944"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -82,7 +82,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-3.9938407,-8.0211782)"
+     transform="translate(122.70804,-16.592188)"
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1">
@@ -814,7 +814,7 @@
          sodipodi:role="line">(soutien et</tspan><tspan
          id="tspan271"
          style="font-size:3.52777px;fill:#ffffff;stroke-width:0.264583"
-         y="66.355614"
+         y="66.355606"
          x="14.476484"
          sodipodi:role="line">participation)</tspan></text>
     <rect
