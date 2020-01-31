@@ -6,7 +6,7 @@
 - [v2](https://twitter.com/rom1gre/status/1074632079944630274)
 - [v3](https://twitter.com/rom1gre/status/1074679983619096577)
 
-**@prenezlestc**
+**@prenezlestc/@pabouger**
 
 - [v0.1](https://twitter.com/prenezlestc/status/1189248028185677825)
 -  [v0.2](https://twitter.com/prenezlestc/status/1189251464943882240)
@@ -25,3 +25,4 @@
   - [v0.96](https://twitter.com/pabouger/status/1197823416428052480)
   - [v0.97](https://twitter.com/pabouger/status/1197931398423830531)
   - [v0.98 beta](https://twitter.com/pabouger/status/1197935641805361153)
+  - [v0.99e](https://twitter.com/pabouger/status/1216828291258208257)
