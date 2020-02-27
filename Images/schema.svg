@@ -56,8 +56,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.82"
-     inkscape:cx="552.09872"
-     inkscape:cy="568.50174"
+     inkscape:cx="571.61091"
+     inkscape:cy="573.37979"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -97,12 +97,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-20.988085"
+       x="-20.020082"
        y="27.121004"
        id="text12"><tspan
          sodipodi:role="line"
          id="tspan10"
-         x="-20.988085"
+         x="-20.020082"
          y="27.121004"
          style="stroke-width:0.264583">Grenoble Elections Municipales 2020</tspan></text>
     <rect
@@ -448,22 +448,22 @@
          x="105.22586"
          sodipodi:role="line">(rejoint)</tspan></text>
     <rect
-       ry="3.0518947"
+       ry="6.1008859"
        y="150.14415"
        x="154.28448"
-       height="12.595825"
+       height="25.179667"
        width="95.591675"
        id="rect14-2-2-5"
-       style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.0713682" />
+       style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.100906" />
     <text
        id="text22-2-8-0"
        y="158.01819"
-       x="172.55139"
+       x="172.55141"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="fill:#000080;stroke-width:0.264583"
          y="158.01819"
-         x="172.55139"
+         x="172.55141"
          id="tspan20-0-7-6"
          sodipodi:role="line">M. D'Ornano - Les Patriotes</tspan></text>
     <rect
@@ -860,5 +860,21 @@
          x="13.080795"
          y="151.77945"
          style="stroke-width:0.264583" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="202.04286"
+       y="165.65611"
+       id="text18-9-18"><tspan
+         sodipodi:role="line"
+         id="tspan16-8-7"
+         x="202.04286"
+         y="165.65611"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583">Mieux vivre à</tspan><tspan
+         id="tspan51-0"
+         sodipodi:role="line"
+         x="202.04286"
+         y="172.27071"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';text-align:center;text-anchor:middle;fill:#000080;stroke-width:0.264583">Grenoble</tspan></text>
   </g>
 </svg>
