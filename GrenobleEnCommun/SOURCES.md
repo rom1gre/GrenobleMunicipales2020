@@ -28,3 +28,6 @@
 
 26/01/2020: EELV
   - https://twitter.com/EELVGrenoble/status/1221437074018009091
+
+02/03/2020: Mise à jour des soutiens
+  - https://twitter.com/AlanConfesson/status/1234539494113763328
